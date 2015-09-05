@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Copyright (c) James Beedy, 2015
+# Copyright (c) Chris Heckler, 2015
 
 # Analysis of Fib alogos in python
 
